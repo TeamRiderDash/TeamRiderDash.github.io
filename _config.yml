@@ -36,7 +36,7 @@ timezone: GMT+9 # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zon
 author:
   type      : organization # "person" (default), "organization"
   name      : RiderDash
-  url       :
+  url       : https://riderdash.com
   avatar    : # path or url of avatar image (square)
   bio       : 
   email     :
