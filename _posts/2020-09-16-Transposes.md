@@ -1,6 +1,6 @@
 ---
 title: A Short (?) Introduction to Matrix Transposition Algorithms
-author: Jimmy Lim
+author: Jimmy
 date: 2020-09-16 12:40
 categories: [Algorithm]
 tags: [algorithms, math, linear algebra]
